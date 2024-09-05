@@ -28,7 +28,7 @@ Thank you 🙏 for visiting my profile !!
 <span>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invictusaman&theme=default&hide_border=true&layout=compact&langs_count=8&card_width=600" />
 </span>
-<br/>
+<br/><br/>
 <span>  
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=amanbhattarai&theme=default&hide_border=true&layout=compact&langs_count=10&card_width=600" />
 </span>
