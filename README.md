@@ -9,7 +9,7 @@
 </p>
 <hr/>
 
-# Hi there <img src="img/hello.gif" height="30px">
+# Hi there <img src="img/hello.gif" height="30px" width="30px">
 
 Thank you 🙏 for visiting my profile !! 
 
