@@ -26,10 +26,10 @@ Thank you 🙏 for visiting my profile !!
 
 <br/>
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=invictusaman&theme=default&hide_border=false&include_all_commits=true&count_private=true&card_width=300" />
+  <img height=200 style="margin-top:20px" align="center" src="https://github-readme-stats.vercel.app/api?username=invictusaman&theme=default&hide_border=false&include_all_commits=true&count_private=true&card_width=300" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invictusaman&theme=default&hide_border=false&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 style="margin-top:20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invictusaman&theme=default&hide_border=false&layout=compact&langs_count=8&card_width=300" />
 </span>
 
 <br/>
