@@ -4,7 +4,7 @@
 <a href="https://www.kaggle.com/amanbhattarai695" target="_blank"><img align="center" src="img/kaggle.svg" alt="kaggle" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/amanbhattarai" target="_blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://medium.com/@amanbhattarai" target="_blank"><img align="center" src="img/medium.svg" alt="medium" height="50" width="50" /></a>
-<a href="https://www.twistblogg.com" target="_blank"><img align="center" src="img/blog.svg" alt="blog" height="50" width="50" /></a>
+<a href="https://amanbhattarai.com.np" target="_blank"><img align="center" src="img/blog.svg" alt="blog" height="50" width="50" /></a>
 <a href="https://pinterest.com/twistblogg" target="_blank"><img align="center" src="img/pinterest.svg" alt="pinterest" height="50" width="50" /></a>
 </p>
 <hr/>
