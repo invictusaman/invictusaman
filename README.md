@@ -14,7 +14,7 @@
 Thank you 🙏 for visiting my profile !! 
 
 - 🔭 I’m currently looking for Data Analyst jobs.
-- 👷 I’m building my personal portfolio (will be live soon).
+- 👷 ~~I’m building my personal portfolio (will be live soon).~~ Live at, [https://amanbhattarai.com.np](https://amanbhattarai.com.np)
 - 🎓 I’m learning SQL and Tableau.
 
 <br/>
