@@ -1,14 +1,3 @@
-[![Header](img/COVER.png)](https://twistblogg.com)
-
-<p align="center">
-<a href="https://www.kaggle.com/amanbhattarai695" target="_blank"><img align="center" src="img/kaggle.svg" alt="kaggle" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/amanbhattarai" target="_blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://medium.com/@amanbhattarai" target="_blank"><img align="center" src="img/medium.svg" alt="medium" height="50" width="50" /></a>
-<a href="https://amanbhattarai.com.np" target="_blank"><img align="center" src="img/blog.svg" alt="blog" height="50" width="50" /></a>
-</p>
-<hr/>
-
-
 # Hi there <img src="img/hello.gif" height="30px" width="30px">
 
 Thanks for visiting my profile! I'm a **Senior Data Engineer** with 6+ years of experience building scalable data platforms across **agriculture, logistics, healthcare, and financial services**.
@@ -105,7 +94,7 @@ Real-time trading and risk data processing system for asset management operation
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/amanbhattarai](https://linkedin.com/in/amanbhattarai)
-- 📧 Email: jobsamanbhattarai@gmail.com
+- 📧 Email: [Send me an email](mailto:jobsamanbhattarai@gmail.com)
 - 🌐 Portfolio: [amanbhattarai.com.np](https://amanbhattarai.com.np)
 
 ---
